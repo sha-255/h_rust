@@ -1,5 +1,7 @@
-use h_rust::user::*;
-use h_rust::user_output::output;
+use h_rust::{
+    user::*, 
+    user_output::output
+};
 
 fn main() {
     let std_v6_ip = Ip::V6(String::from("::1"));

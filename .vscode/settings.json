@@ -1,4 +1,5 @@
 {
   "editor.formatOnSave": true,
-  "rust-analyzer.check.overrideCommand": null
+  "rust-analyzer.check.overrideCommand": null,
+  "rust-analyzer.linkedProjects": [".\\Cargo.toml"]
 }
